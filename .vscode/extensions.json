@@ -1,8 +1,9 @@
 {
     "recommendations": [
+        "vscode-icons-team.vscode-icons",
         "ms-dotnettools.vscode-dotnet-runtime",
         "ms-dotnettools.csharp",
         "ms-dotnettools.csdevkit",
-        "ms-dotnettools.vscodeintellicode-csharp"
+        "ms-dotnettools.vscodeintellicode-csharp",
     ]
 }
